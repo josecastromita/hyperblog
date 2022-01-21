@@ -6,4 +6,9 @@ erererer
 
 hoy es el CEO de platzi
 
+<<<<<<< HEAD
 cambio en el master
+=======
+cambios sobre le branch cabecera 111
+un cambios mas de branch
+>>>>>>> cabecera
