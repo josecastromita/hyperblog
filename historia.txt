@@ -1,14 +1,5 @@
-La historia dejaskdj
-asdasd
-asdasd
-qqqqqqdasd
-erererer
+Esta es la historia de Freddy Vega
 
-hoy es el CEO de platzi
+Freddy Vega tiene 32 años y nació en Colombia
 
-<<<<<<< HEAD
-cambio en el master
-=======
-cambios sobre le branch cabecera 111
-un cambios mas de branch
->>>>>>> cabecera
+Mañana nos enfocaremos en su vida laboral
